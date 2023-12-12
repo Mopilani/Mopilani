@@ -21,7 +21,7 @@ programming + finance + data
 ![Node JS](https://img.shields.io/badge/Node%20js-FFD43B?style=for-the-badge&logo=node&logoColor=darkgreen)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=oracle&logoColor=darkgreen)
-![Go](https://img.shields.io/badge/go%lang-white?style=for-the-badge&logo=go&logoColor=blue)
+![Go](https://img.shields.io/badge/go%20lang-white?style=for-the-badge&logo=go&logoColor=blue)
 ![Mongodb](https://img.shields.io/badge/mongo%20db-ffffff?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MS SQL Server](https://img.shields.io/badge/SQL%20Server-739fff?style=for-the-badge&logo=sql&logoColor=white)
 
@@ -62,6 +62,7 @@ programming + finance + data
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mopilani/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/mopilani/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/13696660/mopilani)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mopilani)
 <br/>
 <br/>
 <br/>
