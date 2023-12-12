@@ -38,7 +38,7 @@ I program as a profession and as a hobby.
 | [![Shikat](https://img.shields.io/badge/Shikat-A40606?style=for-the-badge&logo=flutter&logoColor=blue&color=white)](https://github.com/Mopilani/shikat)                             | Cheque Painting and Pringing with archive                      | Dart, Flutter, C#, MongoDB 
 | [![Spiderbase](https://img.shields.io/badge/Spiderbase-white?style=for-the-badge&logo=dart&logoColor=blue&color=white)](https://github.com/Mopilani/spiderbase)                                 | Server Building Framework Supports MongoDB          | Dart                      |
 | [![E512](https://img.shields.io/badge/E512-A40606?style=for-the-badge&logo=dart&logoColor=white&color=blue)](https://github.com/Mopilani/E512)                                 | A blockchain network operator          | Dart, Python, Javascript                   |
-| ![Xenon Control Panel](https://img.shields.io/badge/Xenon%20CP-280068?style=for-the-badge&logo=flutter&logoColor=white)                                                                                     | Automated system for news, stocks and business info | Python, MongoDB, Ubuntu     |
+| ![Xenon Control Panel](https://img.shields.io/badge/Xenon%20CP-280068?style=for-the-badge&logo=flutter&logoColor=white)                                                                                     | Application for managing spiderbase-xenonbase servers | Python, MongoDB, Ubuntu     |
 
 
 ### My Background
