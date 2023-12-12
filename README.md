@@ -5,11 +5,7 @@ I am a software engineer and creative engineer at all, Multi-passionate.
 Most of my projects are related making management systems and finding solutions,
 I program as a profession and as a hobby.
 
-```julia
-programming + finance + data
-```
-
-![Mopilani's Github stats](https://github-readme-stats.vercel.app/api?username=Mopilani&show_icons=true&theme=tokyonight)
+![Mopilani's Github stats](https://github-readme-stats.vercel.app/api?username=Mopilani&show_icons=true&theme=monoki)
 
 ### My favorite languages and frameworks
 
