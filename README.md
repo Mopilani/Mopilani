@@ -62,7 +62,7 @@ I program as a profession and as a hobby.
 <br/>
 <br/>
 <br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:mopilani1@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mopilani1@gmail.com) 
 # mopilani1@gmail.com For business
 #### I have mopilani@gmail.com but not using it for business business (^-^).
 
