@@ -57,8 +57,8 @@ I program as a profession and as a hobby.
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mopilani)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mopilani/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/mopilani/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/mopilani)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mopilani)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/mopilani)
 <br/>
 <br/>
 <br/>
