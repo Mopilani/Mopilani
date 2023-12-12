@@ -20,8 +20,8 @@ programming + finance + data
 ![Javascript](https://img.shields.io/badge/Javascript-FFD43B?style=for-the-badge&logo=javascript&logoColor=darkgreen)
 ![Node JS](https://img.shields.io/badge/Node%20js-FFD43B?style=for-the-badge&logo=node&logoColor=darkgreen)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Mongodb](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL-739fff?style=for-the-badge&logo=sqlserver&logoColor=white)
+![Mongodb](https://img.shields.io/badge/mongo%20db-ffffff?style=for-the-badge&logo=mongodb&logoColor=green)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-739fff?style=for-the-badge&logo=sql&logoColor=white)
 
 ### My Skills
 
@@ -35,21 +35,21 @@ programming + finance + data
 
 | Project                                                                                                                                                                                     | Description                                         | Technologies                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------- |
-| [![Businet](https://img.shields.io/badge/Rocketry-A40606?style=for-the-badge&logo=python&logoColor=blue&color=white)](https://github.com/Miksus/rocketry)                                  | A powerful scheduling framework                     | Python                      |
-| [![Red Mail](https://img.shields.io/badge/Red%20Mail-A40606?style=for-the-badge&logo=python&logoColor=white&color=darkred)](https://github.com/Miksus/red-mail)                             | Popular email sending library for Python            | Python                      |
-| [![Shikat](https://img.shields.io/badge/Red%20Box-A40606?style=for-the-badge&logo=python&logoColor=white&color=darkred)](https://github.com/Miksus/red-box)                             | Email reader library for Python            | Python                      |
-| [![Red Bird](https://img.shields.io/badge/Red%20Bird-A40606?style=for-the-badge&logo=python&logoColor=white&color=red)](https://github.com/Miksus/red-bird)                                 | Repository patterns (database abstraction)          | Python                      |
-| ![Synergy](https://img.shields.io/badge/Synergy-07129C?style=for-the-badge&logo=ubuntu&logoColor=white)                                                                                     | Automated system for news, stocks and business info | Python, MongoDB, Ubuntu     |
-| [![ASM](https://img.shields.io/badge/ASM-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Miksus/thesis-computational-artificial-market)  | Trading simulator, thesis project                   | Julia, Python, Latex        |
+| [![Businet](https://img.shields.io/badge/Rocketry-A40606?style=for-the-badge&logo=flutter&logoColor=blue&color=white)](https://github.com/Miksus/rocketry)                                  | A powerful scheduling framework                     | Dart, Flutter, C#, MongoDB                      |
+| [![Red Mail](https://img.shields.io/badge/Red%20Mail-A40606?style=for-the-badge&logo=flutter&logoColor=white&color=darkred)](https://github.com/Miksus/red-mail)                             | Popular email sending library for Python            | Dart, Flutter, C#, MongoDB                      |
+| [![Shikat](https://img.shields.io/badge/Red%20Box-A40606?style=for-the-badge&logo=flutter&logoColor=white&color=darkred)](https://github.com/Miksus/red-box)                             | Email reader library for Python            | Python                      |
+| [![Red Bird](https://img.shields.io/badge/Red%20Bird-A40606?style=for-the-badge&logo=dart&logoColor=white&color=red)](https://github.com/Miksus/red-bird)                                 | Repository patterns (database abstraction)          | Python                      |
+| ![Synergy](https://img.shields.io/badge/Synergy-07129C?style=for-the-badge&logo=python&logoColor=white)                                                                                     | Automated system for news, stocks and business info | Python, MongoDB, Ubuntu     |
+| [![ASM](https://img.shields.io/badge/ASM-9558B2?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Miksus/thesis-computational-artificial-market)  | Trading simulator, thesis project                   | Julia, Python, Latex        |
 
 
-### My background
+### My Background
 
 |                |                                            |
 |----------------|--------------------------------------------|
 |**Nationality** |Sudaneese                                   |
 |**Education**   |Sevral certificates in computer science     |
-|**Career**      |Derivatives valuation in Corporate banking  |
+|**Career**      |Freelancer, worked for some companies       |
 |**Hobbies**     |Engineering, Programming *(obviously)*      |
 
 
@@ -59,3 +59,14 @@ programming + finance + data
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mopilani/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/mopilani/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/13696660/mopilani)
+<br/>
+<br/>
+<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:mopilani1@gmail.com) 
+# mopilani1@gmail.com For business
+#### I have mopilani@gmail.com but not using it for business business (^-^).
+
+<br/>
+<br/>
+
+# Thanks For Reading . . .
