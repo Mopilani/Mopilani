@@ -1,12 +1,15 @@
-### Hi, I'm Mohammed Emam
+<h1 align="center">Hi, I'm Mohammed Emam</h1>
+<h3 align="center">A Software Engineer from Sudan, Khartom</h3>
 
-
-I am a software engineer and creative engineer at all, Multi-passionate.
-Most of my projects are related making management systems and finding solutions,
+I'm a creative engineer at all, Multi-passionate. Most of my projects are related making management systems and finding solutions,
 I program as a profession and as a hobby.
 
 ![Mopilani's Github stats](https://github-readme-stats.vercel.app/api?username=Mopilani&show_icons=true&theme=monoki)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mopilani&show_icons=true&locale=en&layout=compact" alt="wathika-eng" />
+
+
+- [![wakatime](https://wakatime.com/badge/user/1c7075a8-f00e-4ea2-9cbb-5e1a50649805.svg)](https://wakatime.com/@1c7075a8-f00e-4ea2-9cbb-5e1a50649805)
 ### My favorite languages and frameworks
 
 ![Dart](https://img.shields.io/badge/Dart-54C5F8?style=for-the-badge&logo=dart&logoColor=white)
